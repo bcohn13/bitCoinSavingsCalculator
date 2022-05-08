@@ -1,0 +1,14 @@
+C:\Users\bcohn\source\repos\bitCoinSavingsCalculator\bitCoinSavingsCalculator\bin\Debug\netcoreapp3.1\bitCoinSavingsCalculator.exe
+C:\Users\bcohn\source\repos\bitCoinSavingsCalculator\bitCoinSavingsCalculator\bin\Debug\netcoreapp3.1\bitCoinSavingsCalculator.deps.json
+C:\Users\bcohn\source\repos\bitCoinSavingsCalculator\bitCoinSavingsCalculator\bin\Debug\netcoreapp3.1\bitCoinSavingsCalculator.runtimeconfig.json
+C:\Users\bcohn\source\repos\bitCoinSavingsCalculator\bitCoinSavingsCalculator\bin\Debug\netcoreapp3.1\bitCoinSavingsCalculator.runtimeconfig.dev.json
+C:\Users\bcohn\source\repos\bitCoinSavingsCalculator\bitCoinSavingsCalculator\bin\Debug\netcoreapp3.1\bitCoinSavingsCalculator.dll
+C:\Users\bcohn\source\repos\bitCoinSavingsCalculator\bitCoinSavingsCalculator\bin\Debug\netcoreapp3.1\bitCoinSavingsCalculator.pdb
+C:\Users\bcohn\source\repos\bitCoinSavingsCalculator\bitCoinSavingsCalculator\obj\Debug\netcoreapp3.1\bitCoinSavingsCalculator.csproj.AssemblyReference.cache
+C:\Users\bcohn\source\repos\bitCoinSavingsCalculator\bitCoinSavingsCalculator\obj\Debug\netcoreapp3.1\bitCoinSavingsCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bcohn\source\repos\bitCoinSavingsCalculator\bitCoinSavingsCalculator\obj\Debug\netcoreapp3.1\bitCoinSavingsCalculator.AssemblyInfoInputs.cache
+C:\Users\bcohn\source\repos\bitCoinSavingsCalculator\bitCoinSavingsCalculator\obj\Debug\netcoreapp3.1\bitCoinSavingsCalculator.AssemblyInfo.cs
+C:\Users\bcohn\source\repos\bitCoinSavingsCalculator\bitCoinSavingsCalculator\obj\Debug\netcoreapp3.1\bitCoinSavingsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\bcohn\source\repos\bitCoinSavingsCalculator\bitCoinSavingsCalculator\obj\Debug\netcoreapp3.1\bitCoinSavingsCalculator.dll
+C:\Users\bcohn\source\repos\bitCoinSavingsCalculator\bitCoinSavingsCalculator\obj\Debug\netcoreapp3.1\bitCoinSavingsCalculator.pdb
+C:\Users\bcohn\source\repos\bitCoinSavingsCalculator\bitCoinSavingsCalculator\obj\Debug\netcoreapp3.1\bitCoinSavingsCalculator.genruntimeconfig.cache
